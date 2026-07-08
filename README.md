@@ -140,7 +140,8 @@ YtChat-AiAgent-main/
 
 ## Author
 
-Alluri Lakshman Narendra – Indian Institute of Technology (IIT) Dharwad – Computer Science and Engineering (CSE)
+Rishita Sharma 
+
 
 ---
 "# YtChat-Conversational-RAG-Agent-for-YouTube" 
