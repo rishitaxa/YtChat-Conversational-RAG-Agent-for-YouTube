@@ -101,7 +101,6 @@ ngrok http 5002
 Then update your Bright Data webhook/API settings to use the public ngrok URL.
 
 ---
-
 ## AI Agent (LangChain) Tasks
 
 The AI agent in `server/agent.js` uses LangChain and Gemini AI to process user queries about YouTube videos. Here’s how it works:
